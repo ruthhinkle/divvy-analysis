@@ -1,3 +1,8 @@
+# Ignore API Keys
+config.py
+api_key.py
+api_keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
