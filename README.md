@@ -17,7 +17,7 @@ This project analyzes anonymized data from Divvy, a rideshare biking service in 
 * **Point 2:**
 * **Point 3:**
 
-#Repository Contents
+# Repository Contents
 * Divvy Dataset: Divvy_Trips_2019_Q3 CSV
 * Resources: lat_long.csv
 * Final Notebook File:
