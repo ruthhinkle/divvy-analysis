@@ -1,3 +1,11 @@
+# Ignore API Keys
+config.py
+api_key.py
+api_keys.py
+
+# Ignore Working Files Folder
+Working_Files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
