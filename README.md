@@ -1,5 +1,7 @@
 # Divvy'in Up Data
 
+![White bike against blue painted wall](https://github.com/ruthhinkle/project-1/blob/main/Images/header-bike.jpg)
+
 ## 📝 Project Description
 This project analyzes anonymized data from Divvy, a rideshare biking service in Chicago, IL. We chose to examine data in the third quarter of 2019 which includes the summer months and high volume of riders compared to other quarters. Our analysis examines relationships between gender, age, yearly subscribers and one-off customers, in addition to popular routes, bikes, and stations.
 
